@@ -15,7 +15,24 @@
 6. \n换行符的意义，转义字符的意义
 7. enumerate的意义
     - 返回列表的每一项序号和元素值
-
+8. github的使用
+    1. 上传代码
+        - git init 在本地文件夹中，创建一个git文件，让github能够识别我们这个文件夹
+        - git remote add origin git@github.com:RocStone/python_tutorial.git 本地文件夹链接到远程库
+        - git branch -M main 设置主分支的名字
+        - git config --global user.email "you@example.com"，告诉github，我的邮箱
+        - git config --global user.name "Your Name"，告诉github，我的昵称
+        - ssh-keygen -t rsa -C 你的邮箱地址， 生成秘钥，并且要上传到github，设置，ssh and GPR keys里面添加进去
+        - git add * 把本地所有代码添加到暂存区域
+        - git commit -m"注释内容"，把在暂存区域的内容提交到上传区域
+        - git push origin main 把上传区域的代码提交到远程仓库
+    2. 下载代码
+        - git clone 你的仓库地址
+        - 仓库地址就在你的项目网站上
+    3. 下次上传新内容的时候，照做这三步
+        - git add * 把本地所有代码添加到暂存区域
+        - git commit -m"注释内容"，把在暂存区域的内容提交到上传区域
+        - git push origin main 把上传区域的代码提交到远程仓库
 
 链接：
 1. https://www.jetbrains.com/pycharm/download/#section=windows
