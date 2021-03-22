@@ -33,11 +33,23 @@
         - git add * 把本地所有代码添加到暂存区域
         - git commit -m"注释内容"，把在暂存区域的内容提交到上传区域
         - git push origin main 把上传区域的代码提交到远程仓库
+9. 字典dict
+    a = dict()
+    a['卢'] = '这是一种常用的姓氏'
+
+    1. 这里的卢是一个key，也就是键
+    2. 这里的'这是一种常用的姓氏'，是一个value，也就是值
+    3. 字典就是由一大堆的键值对组成的。
+    4. 值可以是各种数据类型，比如说str, int, float, list, tuple
+
 
 链接：
-1. https://www.jetbrains.com/pycharm/download/#section=windows
-2. 身高体重数据 http://people.ucsc.edu/~cdobkin/NHIS%202007%20data.csv
-3. python文档，docs.python.org/zh-cn/3/library
-4. https://www.kancloud.cn/apachecn/seaborn-doc-zh/1946247
+1. pycharm下载链接，https://www.jetbrains.com/pycharm/download/#section=windows
+2. 身高体重数据，http://people.ucsc.edu/~cdobkin/NHIS%202007%20data.csv
+3. python中文文档，docs.python.org/zh-cn/3/library
+4. seaborn 中文文档，https://www.kancloud.cn/apachecn/seaborn-doc-zh/1946247
+5. 国内下载python的好去处，http://npm.taobao.org/mirrors/python/3.8.8/
+6. 清华pip镜像 https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
+
 """
 
