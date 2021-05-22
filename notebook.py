@@ -52,5 +52,6 @@
 6. 清华pip镜像 https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
 7. 安装 jupyter lab 3: pip install jupyterlab==3
 8. 安装 jupyter lab 中文包: https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jupyterhub/jupyterlab_language_pack_zh_CN-0.0.1.dev0-py2.py3-none-any.whl
+9. pandas 教程: https://www.pypandas.cn/
 """
 
