@@ -50,6 +50,7 @@
 4. seaborn 中文文档，https://www.kancloud.cn/apachecn/seaborn-doc-zh/1946247
 5. 国内下载python的好去处，http://npm.taobao.org/mirrors/python/3.8.8/
 6. 清华pip镜像 https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
-
+7. 安装 jupyter lab 3: pip install jupyterlab==3
+8. 安装 jupyter lab 中文包: https://jfds-1252952517.cos.ap-chengdu.myqcloud.com/jupyterhub/jupyterlab_language_pack_zh_CN-0.0.1.dev0-py2.py3-none-any.whl
 """
 
